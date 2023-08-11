@@ -242,11 +242,12 @@ nav a:focus { color: #35969a; outline: 0; }
 
 .top-content .logo a {
 	display: inline-block;
-	width: 180px;
-	height: 82px;
+	width: 500px;
+	height: 172px;
 	margin: 0;
 	padding: 0;
 	background: url(../img/logo.png) left center no-repeat;
+	background-size: 500px 172px !important;
 	text-indent: -9999px;
 }
 .top-content .logo a:focus { outline: 0; }

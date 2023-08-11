@@ -37,7 +37,13 @@ jQuery(document).ready(function() {
     $.backstretch([
                   "assets/img/backgrounds/4.jpg",
                   "assets/img/backgrounds/5.jpg",
-                  "assets/img/backgrounds/6.jpg"
+                  "assets/img/backgrounds/6.jpg",
+                  "assets/img/backgrounds/7.jpg",
+                  "assets/img/backgrounds/8.jpg",
+                  "assets/img/backgrounds/9.jpg",
+                  "assets/img/backgrounds/10.jpg",
+                  "assets/img/backgrounds/11.jpg",
+                  "assets/img/backgrounds/12.jpg"
                 ], {duration: 3000, fade: 750});
     
     /*
